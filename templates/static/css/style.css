@@ -1,0 +1,40 @@
+#bottom {
+    bottom: -2px;
+    right: 6px;
+    position: fixed;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+/* styles.css */
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+    bottom: 100px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
